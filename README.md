@@ -10,3 +10,6 @@ Answer to the questions below.
 Which player is better, a player who tends to score on his own or a player who uses his teammates to score? 
 
 How a player's performance changes over time?
+
+## Method
+Linear mixed model, GEE
